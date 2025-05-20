@@ -129,7 +129,7 @@ export default function App() {
 //           <MapDisplay />
 //         </div>
 //         {/* 우측 순위 */}
-//         <div className="w-72 p-6 bg-white rounded-2xl shadow flex flex-col items-start border border-gray-200">
+//         <div className="w-72 p-6 bg-white rounded-2xl shadow flex flex-col items-start border border-gray-200">d
 //           <RankingSection />
 //         </div>
 //       </div>
